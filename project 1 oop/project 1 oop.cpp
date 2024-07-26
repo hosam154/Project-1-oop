@@ -25,6 +25,7 @@ public:
         doctor = d;
         doctorId = i;
         cout << "subject and doctor recorded" << endl;
+        cout << "subject and doctor recorded" << endl;
     
     }
 
